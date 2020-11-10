@@ -40,7 +40,7 @@ body {
   <a class="active" href="#home">Home</a> 
   <a href="#Archives">Archives</a>
 
-  <a href="#registreation">New Registration</a>
+  <a href="./new_registration.php">New Registration</a>
   <a href="./logout.php">Logout</a>
 </div>
 
