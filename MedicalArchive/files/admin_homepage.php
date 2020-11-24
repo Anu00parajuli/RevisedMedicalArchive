@@ -39,7 +39,7 @@ body {
 <div class="topnav">
   <a class="active" href="#home">Home</a> 
   <a href="#Archives">Archives</a>
-
+  <a href="./patients_listview.php"> Patients List</a>
   <a href="./new_registration.php">New Registration</a>
   <a href="./logout.php">Logout</a>
 </div>
